@@ -1,7 +1,7 @@
-# AWS 
-We are deploying a web application on the AWS architecture using Terraform.
+# AWS Sample Architecture for Deploying Web Application
+We are deploying a web application on the AWS architecture.
 
-# requirements
+# Resources Used
 Use AWS EC2 instances for the web server.
 Implement an auto-scaling setup for handling varying loads.
 Use RDS for the database layer.
